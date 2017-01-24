@@ -9,7 +9,7 @@ package TP_6;
  *
  * @author primaananda
  */
-public class Calculator_NIM implements TPModul6{
+public class Calculator_NIM {
     private String nama;
     private String nim;
     private double angka1;
