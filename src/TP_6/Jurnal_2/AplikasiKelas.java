@@ -5,10 +5,14 @@
  */
 package TP_6.Jurnal_2;
 
+import java.util.Scanner;
+
 /**
  *
  * @author PrimaAnanda-PC
  */
 public class AplikasiKelas {
+    private static Scanner input;
+    
     
 }
